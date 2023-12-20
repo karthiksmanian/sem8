@@ -27,3 +27,6 @@ clear
 git branch
 git status
 ls
+git add .
+git commit -m "Add git setup and ipynb"
+git push
