@@ -1,0 +1,537 @@
+,winner_name,subject,year,url
+0,Wilhelm Röntgen,Physics,1901,/wiki/Wilhelm_R%C3%B6ntgen
+1,Jacobus Henricus van 't Hoff,Chemistry,1901,/wiki/Jacobus_Henricus_van_%27t_Hoff
+2,Emil von Behring,Physiologyor Medicine,1901,/wiki/Emil_von_Behring
+3,Sully Prudhomme,Literature,1901,/wiki/Sully_Prudhomme
+4,Henry Dunant;Frédéric Passy,Peace,1901,/wiki/Henry_Dunant
+5,Hendrik Lorentz;Pieter Zeeman,Physics,1902,/wiki/Hendrik_Lorentz
+6,Emil Fischer,Chemistry,1902,/wiki/Pieter_Zeeman
+7,Ronald Ross,Physiologyor Medicine,1902,/wiki/Emil_Fischer
+8,Theodor Mommsen,Literature,1902,/wiki/Ronald_Ross
+9,Henri Becquerel;Pierre Curie;Marie Curie,Physics,1903,/wiki/Henri_Becquerel
+10,Svante Arrhenius,Chemistry,1903,/wiki/Pierre_Curie
+11,Niels Ryberg Finsen,Physiologyor Medicine,1903,/wiki/Marie_Curie
+12,Bjørnstjerne Bjørnson,Literature,1903,/wiki/Svante_Arrhenius
+13,Lord Rayleigh,Physics,1904,"/wiki/John_Strutt,_3rd_Baron_Rayleigh"
+14,William Ramsay,Chemistry,1904,/wiki/William_Ramsay
+15,Ivan Pavlov,Physiologyor Medicine,1904,/wiki/Ivan_Pavlov
+16,Frédéric Mistral;José Echegaray,Literature,1904,/wiki/Fr%C3%A9d%C3%A9ric_Mistral
+17,Philipp Lenard,Physics,1905,/wiki/Philipp_Lenard
+18,Adolf von Baeyer,Chemistry,1905,/wiki/Adolf_von_Baeyer
+19,Robert Koch,Physiologyor Medicine,1905,/wiki/Robert_Koch
+20,Henryk Sienkiewicz,Literature,1905,/wiki/Henryk_Sienkiewicz
+21,J. J. Thomson,Physics,1906,/wiki/J._J._Thomson
+22,Henri Moissan,Chemistry,1906,/wiki/Henri_Moissan
+23,Camillo Golgi;Santiago Ramón y Cajal,Physiologyor Medicine,1906,/wiki/Camillo_Golgi
+24,Giosuè Carducci,Literature,1906,/wiki/Santiago_Ram%C3%B3n_y_Cajal
+25,Albert A. Michelson,Physics,1907,/wiki/Albert_A._Michelson
+26,Eduard Buchner,Chemistry,1907,/wiki/Eduard_Buchner
+27,Charles Louis Alphonse Laveran,Physiologyor Medicine,1907,/wiki/Charles_Louis_Alphonse_Laveran
+28,Rudyard Kipling,Literature,1907,/wiki/Rudyard_Kipling
+29,Gabriel Lippmann,Physics,1908,/wiki/Gabriel_Lippmann
+30,Ernest Rutherford,Chemistry,1908,/wiki/Ernest_Rutherford
+31,Élie Metchnikoff;Paul Ehrlich,Physiologyor Medicine,1908,/wiki/%C3%89lie_Metchnikoff
+32,Rudolf Christoph Eucken,Literature,1908,/wiki/Paul_Ehrlich
+33,Karl Ferdinand Braun;Guglielmo Marconi,Physics,1909,/wiki/Karl_Ferdinand_Braun
+34,Wilhelm Ostwald,Chemistry,1909,/wiki/Guglielmo_Marconi
+35,Emil Theodor Kocher,Physiologyor Medicine,1909,/wiki/Wilhelm_Ostwald
+36,Selma Lagerlöf,Literature,1909,/wiki/Emil_Theodor_Kocher
+37,Johannes Diderik van der Waals,Physics,1910,/wiki/Johannes_Diderik_van_der_Waals
+38,Otto Wallach,Chemistry,1910,/wiki/Otto_Wallach
+39,Albrecht Kossel,Physiologyor Medicine,1910,/wiki/Albrecht_Kossel
+40,Paul Heyse,Literature,1910,/wiki/Paul_Heyse
+41,Wilhelm Wien,Physics,1911,/wiki/Wilhelm_Wien
+42,Marie Curie,Chemistry,1911,/wiki/Marie_Curie
+43,Allvar Gullstrand,Physiologyor Medicine,1911,/wiki/Allvar_Gullstrand
+44,Maurice Maeterlinck,Literature,1911,/wiki/Maurice_Maeterlinck
+45,Gustaf Dalén,Physics,1912,/wiki/Gustaf_Dal%C3%A9n
+46,Victor Grignard;Paul Sabatier,Chemistry,1912,/wiki/Victor_Grignard
+47,Alexis Carrel,Physiologyor Medicine,1912,/wiki/Paul_Sabatier_(chemist)
+48,Gerhart Hauptmann,Literature,1912,/wiki/Alexis_Carrel
+49,Heike Kamerlingh Onnes,Physics,1913,/wiki/Heike_Kamerlingh_Onnes
+50,Alfred Werner,Chemistry,1913,/wiki/Alfred_Werner
+51,Charles Richet,Physiologyor Medicine,1913,/wiki/Charles_Richet
+52,Rabindranath Tagore,Literature,1913,/wiki/Rabindranath_Tagore
+53,Max von Laue,Physics,1914,/wiki/Max_von_Laue
+54,Theodore William Richards,Chemistry,1914,/wiki/Theodore_William_Richards
+55,Robert Bárány,Physiologyor Medicine,1914,
+56,None,Literature,1914,
+57,William Henry Bragg;Lawrence Bragg,Physics,1915,/wiki/William_Henry_Bragg
+58,Richard Willstätter,Chemistry,1915,/wiki/Lawrence_Bragg
+59,None,Physiologyor Medicine,1915,/wiki/Richard_Willst%C3%A4tter
+60,Romain Rolland,Literature,1915,
+61,None,Physics,1916,
+62,None,Chemistry,1916,
+63,None,Physiologyor Medicine,1916,
+64,Verner von Heidenstam,Literature,1916,
+65,Charles Glover Barkla,Physics,1917,/wiki/Charles_Glover_Barkla
+66,None,Chemistry,1917,/wiki/Karl_Adolph_Gjellerup
+67,None,Physiologyor Medicine,1917,/wiki/Henrik_Pontoppidan
+68,Karl Adolph Gjellerup;Henrik Pontoppidan,Literature,1917,
+69,Max Planck,Physics,1918,/wiki/Max_Planck
+70,Fritz Haber,Chemistry,1918,
+71,None,Physiologyor Medicine,1918,
+72,None,Literature,1918,
+73,Johannes Stark,Physics,1919,/wiki/Johannes_Stark
+74,None,Chemistry,1919,/wiki/Jules_Bordet
+75,Jules Bordet,Physiologyor Medicine,1919,/wiki/Carl_Spitteler
+76,Carl Spitteler,Literature,1919,
+77,Charles Édouard Guillaume,Physics,1920,/wiki/Charles_%C3%89douard_Guillaume
+78,Walther Nernst,Chemistry,1920,/wiki/Walther_Nernst
+79,August Krogh,Physiologyor Medicine,1920,/wiki/August_Krogh
+80,Knut Hamsun,Literature,1920,/wiki/Knut_Hamsun
+81,Albert Einstein,Physics,1921,/wiki/Albert_Einstein
+82,Frederick Soddy,Chemistry,1921,/wiki/Frederick_Soddy
+83,None,Physiologyor Medicine,1921,/wiki/Anatole_France
+84,Anatole France,Literature,1921,/wiki/Hjalmar_Branting
+85,Niels Bohr,Physics,1922,/wiki/Niels_Bohr
+86,Francis William Aston,Chemistry,1922,/wiki/Francis_William_Aston
+87,Archibald Hill;Otto Fritz Meyerhof,Physiologyor Medicine,1922,/wiki/Archibald_Hill
+88,Jacinto Benavente,Literature,1922,/wiki/Otto_Fritz_Meyerhof
+89,Robert Andrews Millikan,Physics,1923,/wiki/Robert_Andrews_Millikan
+90,Fritz Pregl,Chemistry,1923,/wiki/Fritz_Pregl
+91,Frederick Banting;John Macleod,Physiologyor Medicine,1923,/wiki/Frederick_Banting
+92,W. B. Yeats,Literature,1923,/wiki/John_Macleod_(physiologist)
+93,Manne Siegbahn,Physics,1924,/wiki/Manne_Siegbahn
+94,None,Chemistry,1924,/wiki/Willem_Einthoven
+95,Willem Einthoven,Physiologyor Medicine,1924,
+96,Władysław Reymont,Literature,1924,
+97,James Franck;Gustav Ludwig Hertz,Physics,1925,/wiki/James_Franck
+98,Richard Adolf Zsigmondy,Chemistry,1925,/wiki/Gustav_Ludwig_Hertz
+99,None,Physiologyor Medicine,1925,/wiki/Richard_Adolf_Zsigmondy
+100,George Bernard Shaw,Literature,1925,/wiki/George_Bernard_Shaw
+101,Jean Baptiste Perrin,Physics,1926,/wiki/Jean_Baptiste_Perrin
+102,Theodor Svedberg,Chemistry,1926,/wiki/Theodor_Svedberg
+103,Johannes Fibiger,Physiologyor Medicine,1926,/wiki/Johannes_Fibiger
+104,Grazia Deledda,Literature,1926,/wiki/Grazia_Deledda
+105,Arthur Compton;Charles Thomson Rees Wilson,Physics,1927,/wiki/Arthur_Compton
+106,Heinrich Otto Wieland,Chemistry,1927,/wiki/Charles_Thomson_Rees_Wilson
+107,Julius Wagner-Jauregg,Physiologyor Medicine,1927,/wiki/Heinrich_Otto_Wieland
+108,Henri Bergson,Literature,1927,/wiki/Julius_Wagner-Jauregg
+109,Owen Willans Richardson,Physics,1928,/wiki/Owen_Willans_Richardson
+110,Adolf Windaus,Chemistry,1928,/wiki/Adolf_Windaus
+111,Charles Nicolle,Physiologyor Medicine,1928,/wiki/Charles_Nicolle
+112,Sigrid Undset,Literature,1928,
+113,Louis de Broglie,Physics,1929,/wiki/Louis_de_Broglie
+114,Arthur Harden;Hans von Euler-Chelpin,Chemistry,1929,/wiki/Arthur_Harden
+115,Christiaan Eijkman;Frederick Gowland Hopkins,Physiologyor Medicine,1929,/wiki/Hans_von_Euler-Chelpin
+116,Thomas Mann,Literature,1929,/wiki/Christiaan_Eijkman
+117,C. V. Raman,Physics,1930,/wiki/C._V._Raman
+118,Hans Fischer,Chemistry,1930,/wiki/Hans_Fischer
+119,Karl Landsteiner,Physiologyor Medicine,1930,/wiki/Karl_Landsteiner
+120,Sinclair Lewis,Literature,1930,/wiki/Sinclair_Lewis
+121,None,Physics,1931,/wiki/Carl_Bosch
+122,Carl Bosch;Friedrich Bergius,Chemistry,1931,/wiki/Friedrich_Bergius
+123,Otto Heinrich Warburg,Physiologyor Medicine,1931,/wiki/Otto_Heinrich_Warburg
+124,Erik Axel Karlfeldt,Literature,1931,/wiki/Erik_Axel_Karlfeldt
+125,Werner Heisenberg,Physics,1932,/wiki/Werner_Heisenberg
+126,Irving Langmuir,Chemistry,1932,/wiki/Irving_Langmuir
+127,Charles Scott Sherrington;Edgar Adrian,Physiologyor Medicine,1932,/wiki/Charles_Scott_Sherrington
+128,John Galsworthy,Literature,1932,/wiki/Edgar_Adrian
+129,Erwin Schrödinger;Paul Dirac,Physics,1933,/wiki/Erwin_Schr%C3%B6dinger
+130,None,Chemistry,1933,/wiki/Paul_Dirac
+131,Thomas Hunt Morgan,Physiologyor Medicine,1933,/wiki/Thomas_Hunt_Morgan
+132,Ivan Bunin,Literature,1933,/wiki/Ivan_Bunin
+133,None,Physics,1934,/wiki/Harold_Urey
+134,Harold Urey,Chemistry,1934,/wiki/George_Whipple
+135,George Whipple;George Minot;William P. Murphy,Physiologyor Medicine,1934,/wiki/George_Minot
+136,Luigi Pirandello,Literature,1934,/wiki/William_P._Murphy
+137,James Chadwick,Physics,1935,/wiki/James_Chadwick
+138,Frédéric Joliot-Curie;Irène Joliot-Curie,Chemistry,1935,/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie
+139,Hans Spemann,Physiologyor Medicine,1935,/wiki/Ir%C3%A8ne_Joliot-Curie
+140,None,Literature,1935,/wiki/Hans_Spemann
+141,Victor Francis Hess;Carl David Anderson,Physics,1936,/wiki/Victor_Francis_Hess
+142,Peter Debye,Chemistry,1936,/wiki/Carl_David_Anderson
+143,Henry Hallett Dale;Otto Loewi,Physiologyor Medicine,1936,/wiki/Peter_Debye
+144,Eugene O'Neill,Literature,1936,/wiki/Henry_Hallett_Dale
+145,Clinton Davisson;George Paget Thomson,Physics,1937,/wiki/Clinton_Davisson
+146,Norman Haworth;Paul Karrer,Chemistry,1937,/wiki/George_Paget_Thomson
+147,Albert Szent-Györgyi,Physiologyor Medicine,1937,/wiki/Norman_Haworth
+148,Roger Martin du Gard,Literature,1937,/wiki/Paul_Karrer
+149,Enrico Fermi,Physics,1938,/wiki/Enrico_Fermi
+150,Richard Kuhn[b],Chemistry,1938,/wiki/Richard_Kuhn
+151,Corneille Heymans,Physiologyor Medicine,1938,#cite_note-A-15
+152,Pearl S. Buck,Literature,1938,/wiki/Corneille_Heymans
+153,Ernest Lawrence,Physics,1939,/wiki/Ernest_Lawrence
+154,Adolf Butenandt;[b]Leopold Ružička,Chemistry,1939,/wiki/Adolf_Butenandt
+155,Gerhard Domagk[b],Physiologyor Medicine,1939,#cite_note-A-15
+156,Frans Eemil Sillanpää,Literature,1939,/wiki/Leopold_Ru%C5%BEi%C4%8Dka
+157,Otto Stern,Physics,1943,/wiki/Otto_Stern
+158,George de Hevesy,Chemistry,1943,/wiki/George_de_Hevesy
+159,Henrik Dam;Edward Adelbert Doisy,Physiologyor Medicine,1943,/wiki/Henrik_Dam
+160,None,Literature,1943,
+161,Isidor Isaac Rabi,Physics,1944,/wiki/Isidor_Isaac_Rabi
+162,Otto Hahn,Chemistry,1944,/wiki/Otto_Hahn
+163,Joseph Erlanger;Herbert Spencer Gasser,Physiologyor Medicine,1944,/wiki/Joseph_Erlanger
+164,Johannes V. Jensen,Literature,1944,/wiki/Herbert_Spencer_Gasser
+165,Wolfgang Pauli,Physics,1945,/wiki/Wolfgang_Pauli
+166,Artturi Ilmari Virtanen,Chemistry,1945,/wiki/Artturi_Ilmari_Virtanen
+167,Alexander Fleming;Ernst Chain;Howard Florey,Physiologyor Medicine,1945,/wiki/Alexander_Fleming
+168,Gabriela Mistral,Literature,1945,/wiki/Ernst_Chain
+169,Percy Williams Bridgman,Physics,1946,/wiki/Percy_Williams_Bridgman
+170,James B. Sumner;John Howard Northrop;Wendell Meredith Stanley,Chemistry,1946,/wiki/James_B._Sumner
+171,Hermann Joseph Muller,Physiologyor Medicine,1946,/wiki/John_Howard_Northrop
+172,Hermann Hesse,Literature,1946,/wiki/Wendell_Meredith_Stanley
+173,Edward Victor Appleton,Physics,1947,/wiki/Edward_Victor_Appleton
+174,Robert Robinson,Chemistry,1947,/wiki/Robert_Robinson_(organic_chemist)
+175,Carl Ferdinand Cori;Gerty Cori;Bernardo Houssay,Physiologyor Medicine,1947,/wiki/Carl_Ferdinand_Cori
+176,André Gide,Literature,1947,/wiki/Gerty_Cori
+177,Patrick Blackett,Physics,1948,/wiki/Patrick_Blackett
+178,Arne Tiselius,Chemistry,1948,/wiki/Arne_Tiselius
+179,Paul Hermann Müller,Physiologyor Medicine,1948,/wiki/Paul_Hermann_M%C3%BCller
+180,T. S. Eliot,Literature,1948,/wiki/T._S._Eliot
+181,Hideki Yukawa,Physics,1949,/wiki/Hideki_Yukawa
+182,William Giauque,Chemistry,1949,/wiki/William_Giauque
+183,Walter Rudolf Hess;António Egas Moniz,Physiologyor Medicine,1949,/wiki/Walter_Rudolf_Hess
+184,William Faulkner,Literature,1949,/wiki/Ant%C3%B3nio_Egas_Moniz
+185,C. F. Powell,Physics,1950,/wiki/C._F._Powell
+186,Otto Diels;Kurt Alder,Chemistry,1950,/wiki/Otto_Diels
+187,Philip Showalter Hench;Edward Calvin Kendall;Tadeus Reichstein,Physiologyor Medicine,1950,/wiki/Kurt_Alder
+188,Bertrand Russell,Literature,1950,/wiki/Philip_Showalter_Hench
+189,John Cockcroft;Ernest Walton,Physics,1951,/wiki/John_Cockcroft
+190,Edwin McMillan;Glenn T. Seaborg,Chemistry,1951,/wiki/Ernest_Walton
+191,Max Theiler,Physiologyor Medicine,1951,/wiki/Edwin_McMillan
+192,Pär Lagerkvist,Literature,1951,/wiki/Glenn_T._Seaborg
+193,Felix Bloch;Edward Mills Purcell,Physics,1952,/wiki/Felix_Bloch
+194,Archer Martin;Richard Laurence Millington Synge,Chemistry,1952,/wiki/Edward_Mills_Purcell
+195,Selman Waksman,Physiologyor Medicine,1952,/wiki/Archer_Martin
+196,François Mauriac,Literature,1952,/wiki/Richard_Laurence_Millington_Synge
+197,Frits Zernike,Physics,1953,/wiki/Frits_Zernike
+198,Hermann Staudinger,Chemistry,1953,/wiki/Hermann_Staudinger
+199,Hans Adolf Krebs;Fritz Albert Lipmann,Physiologyor Medicine,1953,/wiki/Hans_Adolf_Krebs
+200,Winston Churchill,Literature,1953,/wiki/Fritz_Albert_Lipmann
+201,Max Born;Walther Bothe,Physics,1954,/wiki/Max_Born
+202,Linus Pauling,Chemistry,1954,/wiki/Walther_Bothe
+203,John Franklin Enders;Frederick Chapman Robbins;Thomas Huckle Weller,Physiologyor Medicine,1954,/wiki/Linus_Pauling
+204,Ernest Hemingway,Literature,1954,/wiki/John_Franklin_Enders
+205,Willis Lamb;Polykarp Kusch,Physics,1955,/wiki/Willis_Lamb
+206,Vincent du Vigneaud,Chemistry,1955,/wiki/Polykarp_Kusch
+207,Hugo Theorell,Physiologyor Medicine,1955,/wiki/Vincent_du_Vigneaud
+208,Halldór Laxness,Literature,1955,/wiki/Hugo_Theorell
+209,John Bardeen;Walter Houser Brattain;William Shockley,Physics,1956,/wiki/John_Bardeen
+210,Cyril Norman Hinshelwood;Nikolay Semyonov,Chemistry,1956,/wiki/Walter_Houser_Brattain
+211,André Frédéric Cournand;Werner Forssmann;Dickinson W. Richards,Physiologyor Medicine,1956,/wiki/William_Shockley
+212,Juan Ramón Jiménez,Literature,1956,/wiki/Cyril_Norman_Hinshelwood
+213,Yang Chen-Ning;Tsung-Dao Lee,Physics,1957,/wiki/Yang_Chen-Ning
+214,The Lord Todd,Chemistry,1957,/wiki/Tsung-Dao_Lee
+215,Daniel Bovet,Physiologyor Medicine,1957,/wiki/Alexander_R._Todd
+216,Albert Camus,Literature,1957,/wiki/Daniel_Bovet
+217,Pavel Cherenkov;Ilya Frank;Igor Tamm,Physics,1958,/wiki/Pavel_Cherenkov
+218,Frederick Sanger,Chemistry,1958,/wiki/Ilya_Frank
+219,George Beadle;Edward Tatum;Joshua Lederberg,Physiologyor Medicine,1958,/wiki/Igor_Tamm
+220,Boris Pasternak[d],Literature,1958,/wiki/Frederick_Sanger
+221,Emilio Segrè;Owen Chamberlain,Physics,1959,/wiki/Emilio_Segr%C3%A8
+222,Jaroslav Heyrovský,Chemistry,1959,/wiki/Owen_Chamberlain
+223,Arthur Kornberg;Severo Ochoa,Physiologyor Medicine,1959,/wiki/Jaroslav_Heyrovsk%C3%BD
+224,Salvatore Quasimodo,Literature,1959,/wiki/Arthur_Kornberg
+225,Donald A. Glaser,Physics,1960,/wiki/Donald_A._Glaser
+226,Willard Libby,Chemistry,1960,/wiki/Willard_Libby
+227,Macfarlane Burnet;Peter Medawar,Physiologyor Medicine,1960,/wiki/Macfarlane_Burnet
+228,Saint-John Perse,Literature,1960,/wiki/Peter_Medawar
+229,Robert Hofstadter;Rudolf Mössbauer,Physics,1961,/wiki/Robert_Hofstadter
+230,Melvin Calvin,Chemistry,1961,/wiki/Rudolf_M%C3%B6ssbauer
+231,Georg von Békésy,Physiologyor Medicine,1961,/wiki/Melvin_Calvin
+232,Ivo Andrić,Literature,1961,/wiki/Georg_von_B%C3%A9k%C3%A9sy
+233,Lev Landau,Physics,1962,/wiki/Lev_Landau
+234,Max Perutz;John Kendrew,Chemistry,1962,/wiki/Max_Perutz
+235,Francis Crick;James Watson;Maurice Wilkins,Physiologyor Medicine,1962,/wiki/John_Kendrew
+236,John Steinbeck,Literature,1962,/wiki/Francis_Crick
+237,Eugene Wigner;Maria Goeppert Mayer;J. Hans D. Jensen,Physics,1963,/wiki/Eugene_Wigner
+238,Karl Ziegler;Giulio Natta,Chemistry,1963,/wiki/Maria_Goeppert_Mayer
+239,John Eccles;Alan Hodgkin;Andrew Huxley,Physiologyor Medicine,1963,/wiki/J._Hans_D._Jensen
+240,Giorgos Seferis,Literature,1963,/wiki/Karl_Ziegler
+241,Charles H. Townes;Nikolay Basov;Alexander Prokhorov,Physics,1964,/wiki/Charles_H._Townes
+242,Dorothy Hodgkin,Chemistry,1964,/wiki/Nikolay_Basov
+243,Konrad Emil Bloch;Feodor Lynen,Physiologyor Medicine,1964,/wiki/Alexander_Prokhorov
+244,Jean-Paul Sartre[e],Literature,1964,/wiki/Dorothy_Hodgkin
+245,Shin'ichirō Tomonaga;Julian Schwinger;Richard Feynman,Physics,1965,/wiki/Shin%27ichir%C5%8D_Tomonaga
+246,Robert Burns Woodward,Chemistry,1965,/wiki/Julian_Schwinger
+247,François Jacob;André Michel Lwoff;Jacques Monod,Physiologyor Medicine,1965,/wiki/Richard_Feynman
+248,Mikhail Sholokhov,Literature,1965,/wiki/Robert_Burns_Woodward
+249,Alfred Kastler,Physics,1966,/wiki/Alfred_Kastler
+250,Robert S. Mulliken,Chemistry,1966,/wiki/Robert_S._Mulliken
+251,Francis Peyton Rous;Charles Brenton Huggins,Physiologyor Medicine,1966,/wiki/Francis_Peyton_Rous
+252,Shmuel Yosef Agnon;Nelly Sachs,Literature,1966,/wiki/Charles_Brenton_Huggins
+253,Hans Bethe,Physics,1967,/wiki/Hans_Bethe
+254,Manfred Eigen;Ronald George Wreyford Norrish;George Porter,Chemistry,1967,/wiki/Manfred_Eigen
+255,Ragnar Granit;Haldan Keffer Hartline;George Wald,Physiologyor Medicine,1967,/wiki/Ronald_George_Wreyford_Norrish
+256,Miguel Ángel Asturias,Literature,1967,/wiki/George_Porter
+257,Luis Walter Alvarez,Physics,1968,/wiki/Luis_Walter_Alvarez
+258,Lars Onsager,Chemistry,1968,/wiki/Lars_Onsager
+259,Robert W. Holley;Har Gobind Khorana;Marshall Warren Nirenberg,Physiologyor Medicine,1968,/wiki/Robert_W._Holley
+260,Yasunari Kawabata,Literature,1968,/wiki/Har_Gobind_Khorana
+261,Murray Gell-Mann,Physics,1969,/wiki/Murray_Gell-Mann
+262,Derek Barton;Odd Hassel,Chemistry,1969,/wiki/Derek_Barton
+263,Max Delbrück;Alfred Hershey;Salvador Luria,Physiologyor Medicine,1969,/wiki/Odd_Hassel
+264,Samuel Beckett,Literature,1969,/wiki/Max_Delbr%C3%BCck
+265,International Labour Organization,Peace,1969,/wiki/Alfred_Hershey
+266,Hannes Alfvén;Louis Néel,Physics,1970,/wiki/Hannes_Alfv%C3%A9n
+267,Luis Federico Leloir,Chemistry,1970,/wiki/Louis_N%C3%A9el
+268,Julius Axelrod;Ulf von Euler;Bernard Katz,Physiologyor Medicine,1970,/wiki/Luis_Federico_Leloir
+269,Aleksandr Solzhenitsyn,Literature,1970,/wiki/Julius_Axelrod
+270,Norman Borlaug,Peace,1970,/wiki/Ulf_von_Euler
+271,Dennis Gabor,Physics,1971,/wiki/Dennis_Gabor
+272,Gerhard Herzberg,Chemistry,1971,/wiki/Gerhard_Herzberg
+273,Earl Wilbur Sutherland Jr.,Physiologyor Medicine,1971,/wiki/Earl_Wilbur_Sutherland_Jr.
+274,Pablo Neruda,Literature,1971,/wiki/Pablo_Neruda
+275,Willy Brandt,Peace,1971,/wiki/Willy_Brandt
+276,John Bardeen;Leon Cooper;John Robert Schrieffer,Physics,1972,/wiki/John_Bardeen
+277,Christian B. Anfinsen;Stanford Moore;William Howard Stein,Chemistry,1972,/wiki/Leon_Cooper
+278,Gerald Edelman;Rodney Robert Porter,Physiologyor Medicine,1972,/wiki/John_Robert_Schrieffer
+279,Heinrich Böll,Literature,1972,/wiki/Christian_B._Anfinsen
+280,None,Peace,1972,/wiki/Stanford_Moore
+281,Leo Esaki;Ivar Giaever;Brian Josephson,Physics,1973,/wiki/Leo_Esaki
+282,Ernst Otto Fischer;Geoffrey Wilkinson,Chemistry,1973,/wiki/Ivar_Giaever
+283,Karl von Frisch;Konrad Lorenz;Nikolaas Tinbergen,Physiologyor Medicine,1973,/wiki/Brian_Josephson
+284,Patrick White,Literature,1973,/wiki/Ernst_Otto_Fischer
+285,Henry Kissinger;Lê Đức Thọ[f],Peace,1973,/wiki/Geoffrey_Wilkinson
+286,Martin Ryle;Antony Hewish,Physics,1974,/wiki/Martin_Ryle
+287,Paul Flory,Chemistry,1974,/wiki/Antony_Hewish
+288,Albert Claude;Christian de Duve;George Emil Palade,Physiologyor Medicine,1974,/wiki/Paul_Flory
+289,Eyvind Johnson;Harry Martinson,Literature,1974,/wiki/Albert_Claude
+290,Seán MacBride;Eisaku Satō,Peace,1974,/wiki/Christian_de_Duve
+291,Aage Bohr;Ben Roy Mottelson;James Rainwater,Physics,1975,/wiki/Aage_Bohr
+292,John Cornforth;Vladimir Prelog,Chemistry,1975,/wiki/Ben_Roy_Mottelson
+293,David Baltimore;Renato Dulbecco;Howard Martin Temin,Physiologyor Medicine,1975,/wiki/James_Rainwater
+294,Eugenio Montale,Literature,1975,/wiki/John_Cornforth
+295,Andrei Sakharov,Peace,1975,/wiki/Vladimir_Prelog
+296,Burton Richter;Samuel C. C. Ting,Physics,1976,/wiki/Burton_Richter
+297,William Lipscomb,Chemistry,1976,/wiki/Samuel_C._C._Ting
+298,Baruch Samuel Blumberg;Daniel Carleton Gajdusek,Physiologyor Medicine,1976,/wiki/William_Lipscomb
+299,Saul Bellow,Literature,1976,/wiki/Baruch_Samuel_Blumberg
+300,Betty Williams;Mairead Maguire,Peace,1976,/wiki/Daniel_Carleton_Gajdusek
+301,Philip W. Anderson;Nevill Francis Mott;John Hasbrouck Van Vleck,Physics,1977,/wiki/Philip_W._Anderson
+302,Ilya Prigogine,Chemistry,1977,/wiki/Nevill_Francis_Mott
+303,Roger Guillemin;Andrew Schally;Rosalyn Sussman Yalow,Physiologyor Medicine,1977,/wiki/John_Hasbrouck_Van_Vleck
+304,Vicente Aleixandre,Literature,1977,/wiki/Ilya_Prigogine
+305,Amnesty International,Peace,1977,/wiki/Roger_Guillemin
+306,Pyotr Kapitsa;Arno Allan Penzias;Robert Woodrow Wilson,Physics,1978,/wiki/Pyotr_Kapitsa
+307,Peter D. Mitchell,Chemistry,1978,/wiki/Arno_Allan_Penzias
+308,Werner Arber;Daniel Nathans;Hamilton O. Smith,Physiologyor Medicine,1978,/wiki/Robert_Woodrow_Wilson
+309,Isaac Bashevis Singer,Literature,1978,/wiki/Peter_D._Mitchell
+310,Anwar Sadat;Menachem Begin,Peace,1978,/wiki/Werner_Arber
+311,Sheldon Glashow;Abdus Salam;Steven Weinberg,Physics,1979,/wiki/Sheldon_Glashow
+312,Herbert C. Brown;Georg Wittig,Chemistry,1979,/wiki/Abdus_Salam
+313,Allan McLeod Cormack;Godfrey Hounsfield,Physiologyor Medicine,1979,/wiki/Steven_Weinberg
+314,Odysseas Elytis,Literature,1979,/wiki/Herbert_C._Brown
+315,Mother Teresa,Peace,1979,/wiki/Georg_Wittig
+316,James Cronin;Val Logsdon Fitch,Physics,1980,/wiki/James_Cronin
+317,Paul Berg;Walter Gilbert;Frederick Sanger,Chemistry,1980,/wiki/Val_Logsdon_Fitch
+318,Baruj Benacerraf;Jean Dausset;George Davis Snell,Physiologyor Medicine,1980,/wiki/Paul_Berg
+319,Czesław Miłosz,Literature,1980,/wiki/Walter_Gilbert
+320,Adolfo Pérez Esquivel,Peace,1980,/wiki/Frederick_Sanger
+321,Nicolaas Bloembergen;Arthur Leonard Schawlow;Kai Siegbahn,Physics,1981,/wiki/Nicolaas_Bloembergen
+322,Kenichi Fukui;Roald Hoffmann,Chemistry,1981,/wiki/Arthur_Leonard_Schawlow
+323,Roger Wolcott Sperry;David H. Hubel;Torsten Wiesel,Physiologyor Medicine,1981,/wiki/Kai_Siegbahn
+324,Elias Canetti,Literature,1981,/wiki/Kenichi_Fukui
+325,United Nations High Commissioner for Refugees,Peace,1981,/wiki/Roald_Hoffmann
+326,Kenneth G. Wilson,Physics,1982,/wiki/Kenneth_G._Wilson
+327,Aaron Klug,Chemistry,1982,/wiki/Aaron_Klug
+328,Sune Bergström;Bengt I. Samuelsson;John Vane,Physiologyor Medicine,1982,/wiki/Sune_Bergstr%C3%B6m
+329,Gabriel García Márquez,Literature,1982,/wiki/Bengt_I._Samuelsson
+330,Alva Myrdal;Alfonso García Robles,Peace,1982,/wiki/John_Vane
+331,Subrahmanyan Chandrasekhar;William Alfred Fowler,Physics,1983,/wiki/Subrahmanyan_Chandrasekhar
+332,Henry Taube,Chemistry,1983,/wiki/William_Alfred_Fowler
+333,Barbara McClintock,Physiologyor Medicine,1983,/wiki/Henry_Taube
+334,William Golding,Literature,1983,/wiki/Barbara_McClintock
+335,Lech Wałęsa,Peace,1983,/wiki/William_Golding
+336,Carlo Rubbia;Simon van der Meer,Physics,1984,/wiki/Carlo_Rubbia
+337,Robert Bruce Merrifield,Chemistry,1984,/wiki/Simon_van_der_Meer
+338,Niels Kaj Jerne;Georges J. F. Köhler;César Milstein,Physiologyor Medicine,1984,/wiki/Robert_Bruce_Merrifield
+339,Jaroslav Seifert,Literature,1984,/wiki/Niels_Kaj_Jerne
+340,Desmond Tutu,Peace,1984,/wiki/Georges_J._F._K%C3%B6hler
+341,Klaus von Klitzing,Physics,1985,/wiki/Klaus_von_Klitzing
+342,Herbert A. Hauptman;Jerome Karle,Chemistry,1985,/wiki/Herbert_A._Hauptman
+343,Michael Stuart Brown;Joseph L. Goldstein,Physiologyor Medicine,1985,/wiki/Jerome_Karle
+344,Claude Simon,Literature,1985,/wiki/Michael_Stuart_Brown
+345,International Physicians for the Prevention of Nuclear War,Peace,1985,/wiki/Joseph_L._Goldstein
+346,Ernst Ruska;Gerd Binnig;Heinrich Rohrer,Physics,1986,/wiki/Ernst_Ruska
+347,Dudley R. Herschbach;Yuan T. Lee;John Polanyi,Chemistry,1986,/wiki/Gerd_Binnig
+348,Stanley Cohen;Rita Levi-Montalcini,Physiologyor Medicine,1986,/wiki/Heinrich_Rohrer
+349,Wole Soyinka,Literature,1986,/wiki/Dudley_R._Herschbach
+350,Elie Wiesel,Peace,1986,/wiki/Yuan_T._Lee
+351,Georg Bednorz;K. Alex Müller,Physics,1987,/wiki/Georg_Bednorz
+352,Donald J. Cram;Jean-Marie Lehn;Charles J. Pedersen,Chemistry,1987,/wiki/K._Alex_M%C3%BCller
+353,Susumu Tonegawa,Physiologyor Medicine,1987,/wiki/Donald_J._Cram
+354,Joseph Brodsky,Literature,1987,/wiki/Jean-Marie_Lehn
+355,Óscar Arias,Peace,1987,/wiki/Charles_J._Pedersen
+356,Leon M. Lederman;Melvin Schwartz;Jack Steinberger,Physics,1988,/wiki/Leon_M._Lederman
+357,Johann Deisenhofer;Robert Huber;Hartmut Michel,Chemistry,1988,/wiki/Melvin_Schwartz
+358,James W. Black;Gertrude B. Elion;George H. Hitchings,Physiologyor Medicine,1988,/wiki/Jack_Steinberger
+359,Naguib Mahfouz,Literature,1988,/wiki/Johann_Deisenhofer
+360,United Nations peacekeeping forces,Peace,1988,/wiki/Robert_Huber
+361,Norman Ramsey Jr.;Hans Georg Dehmelt;Wolfgang Paul,Physics,1989,/wiki/Norman_Ramsey_Jr.
+362,Sidney Altman;Thomas Cech,Chemistry,1989,/wiki/Hans_Georg_Dehmelt
+363,J. Michael Bishop;Harold E. Varmus,Physiologyor Medicine,1989,/wiki/Wolfgang_Paul
+364,Camilo José Cela,Literature,1989,/wiki/Sidney_Altman
+365,Tenzin Gyatso (The 14th Dalai Lama),Peace,1989,/wiki/Thomas_Cech
+366,Jerome Isaac Friedman;Henry Way Kendall;Richard E. Taylor,Physics,1990,/wiki/Jerome_Isaac_Friedman
+367,Elias James Corey,Chemistry,1990,/wiki/Henry_Way_Kendall
+368,Joseph Murray;E. Donnall Thomas,Physiologyor Medicine,1990,/wiki/Richard_E._Taylor
+369,Octavio Paz,Literature,1990,/wiki/Elias_James_Corey
+370,Mikhail Gorbachev,Peace,1990,/wiki/Joseph_Murray
+371,Pierre-Gilles de Gennes,Physics,1991,/wiki/Pierre-Gilles_de_Gennes
+372,Richard R. Ernst,Chemistry,1991,/wiki/Richard_R._Ernst
+373,Erwin Neher;Bert Sakmann,Physiologyor Medicine,1991,/wiki/Erwin_Neher
+374,Nadine Gordimer,Literature,1991,/wiki/Bert_Sakmann
+375,Aung San Suu Kyi,Peace,1991,/wiki/Nadine_Gordimer
+376,Georges Charpak,Physics,1992,/wiki/Georges_Charpak
+377,Rudolph A. Marcus,Chemistry,1992,/wiki/Rudolph_A._Marcus
+378,Edmond H. Fischer;Edwin G. Krebs,Physiologyor Medicine,1992,/wiki/Edmond_H._Fischer
+379,Derek Walcott,Literature,1992,/wiki/Edwin_G._Krebs
+380,Rigoberta Menchú,Peace,1992,/wiki/Derek_Walcott
+381,Russell Alan Hulse;Joseph Hooton Taylor Jr.,Physics,1993,/wiki/Russell_Alan_Hulse
+382,Kary Mullis;Michael Smith,Chemistry,1993,/wiki/Joseph_Hooton_Taylor_Jr.
+383,Richard J. Roberts;Phillip Allen Sharp,Physiologyor Medicine,1993,/wiki/Kary_Mullis
+384,Toni Morrison,Literature,1993,/wiki/Michael_Smith_(chemist)
+385,Nelson Mandela;F. W. de Klerk,Peace,1993,/wiki/Richard_J._Roberts
+386,Bertram Brockhouse;Clifford Shull,Physics,1994,/wiki/Bertram_Brockhouse
+387,George Andrew Olah,Chemistry,1994,/wiki/Clifford_Shull
+388,Alfred G. Gilman;Martin Rodbell,Physiologyor Medicine,1994,/wiki/George_Andrew_Olah
+389,Kenzaburō Ōe,Literature,1994,/wiki/Alfred_G._Gilman
+390,Yasser Arafat;Shimon Peres;Yitzhak Rabin,Peace,1994,/wiki/Martin_Rodbell
+391,Martin Lewis Perl;Frederick Reines,Physics,1995,/wiki/Martin_Lewis_Perl
+392,Paul J. Crutzen;Mario J. Molina;F. Sherwood Rowland,Chemistry,1995,/wiki/Frederick_Reines
+393,Edward B. Lewis;Christiane Nüsslein-Volhard;Eric F. Wieschaus,Physiologyor Medicine,1995,/wiki/Paul_J._Crutzen
+394,Seamus Heaney,Literature,1995,/wiki/Mario_J._Molina
+395,Joseph Rotblat;Pugwash Conferences on Science and World Affairs,Peace,1995,/wiki/F._Sherwood_Rowland
+396,David Lee;Douglas Osheroff;Robert Coleman Richardson,Physics,1996,/wiki/David_Lee_(physicist)
+397,Robert Curl;Harry Kroto;Richard Smalley,Chemistry,1996,/wiki/Douglas_Osheroff
+398,Peter C. Doherty;Rolf M. Zinkernagel,Physiologyor Medicine,1996,/wiki/Robert_Coleman_Richardson
+399,Wisława Szymborska,Literature,1996,/wiki/Robert_Curl
+400,Carlos Filipe Ximenes Belo;José Ramos-Horta,Peace,1996,/wiki/Harry_Kroto
+401,Steven Chu;Claude Cohen-Tannoudji;William Daniel Phillips,Physics,1997,/wiki/Steven_Chu
+402,Paul D. Boyer;John E. Walker;Jens Christian Skou,Chemistry,1997,/wiki/Claude_Cohen-Tannoudji
+403,Stanley B. Prusiner,Physiologyor Medicine,1997,/wiki/William_Daniel_Phillips
+404,Dario Fo,Literature,1997,/wiki/Paul_D._Boyer
+405,International Campaign to Ban Landmines;Jody Williams,Peace,1997,/wiki/John_E._Walker
+406,Robert B. Laughlin;Horst Ludwig Störmer;Daniel C. Tsui,Physics,1998,/wiki/Robert_B._Laughlin
+407,Walter Kohn;John Pople,Chemistry,1998,/wiki/Horst_Ludwig_St%C3%B6rmer
+408,Robert F. Furchgott;Louis Ignarro;Ferid Murad,Physiologyor Medicine,1998,/wiki/Daniel_C._Tsui
+409,José Saramago,Literature,1998,/wiki/Walter_Kohn
+410,John Hume;David Trimble,Peace,1998,/wiki/John_Pople
+411,Gerard 't Hooft;Martinus J. G. Veltman,Physics,1999,/wiki/Gerard_%27t_Hooft
+412,Ahmed Zewail,Chemistry,1999,/wiki/Martinus_J._G._Veltman
+413,Günter Blobel,Physiologyor Medicine,1999,/wiki/Ahmed_Zewail
+414,Günter Grass,Literature,1999,/wiki/G%C3%BCnter_Blobel
+415,Médecins Sans Frontières,Peace,1999,/wiki/G%C3%BCnter_Grass
+416,Jack Kilby;Zhores Alferov;Herbert Kroemer,Physics,2000,/wiki/Jack_Kilby
+417,Alan J. Heeger;Alan MacDiarmid;Hideki Shirakawa,Chemistry,2000,/wiki/Zhores_Alferov
+418,Arvid Carlsson;Paul Greengard;Eric Kandel,Physiologyor Medicine,2000,/wiki/Herbert_Kroemer
+419,Gao Xingjian,Literature,2000,/wiki/Alan_J._Heeger
+420,Kim Dae-jung,Peace,2000,/wiki/Alan_MacDiarmid
+421,Eric Allin Cornell;Wolfgang Ketterle;Carl Wieman,Physics,2001,/wiki/Eric_Allin_Cornell
+422,William Standish Knowles;Ryōji Noyori;Karl Barry Sharpless,Chemistry,2001,/wiki/Wolfgang_Ketterle
+423,Leland H. Hartwell;Tim Hunt;Paul Nurse,Physiologyor Medicine,2001,/wiki/Carl_Wieman
+424,V. S. Naipaul,Literature,2001,/wiki/William_Standish_Knowles
+425,United Nations;Kofi Annan,Peace,2001,/wiki/Ry%C5%8Dji_Noyori
+426,Riccardo Giacconi;Raymond Davis Jr.;Masatoshi Koshiba,Physics,2002,/wiki/Riccardo_Giacconi
+427,John B. Fenn;Koichi Tanaka;Kurt Wüthrich,Chemistry,2002,/wiki/Raymond_Davis_Jr.
+428,Sydney Brenner;H. Robert Horvitz;John Sulston,Physiologyor Medicine,2002,/wiki/Masatoshi_Koshiba
+429,Imre Kertész,Literature,2002,/wiki/John_B._Fenn
+430,Jimmy Carter,Peace,2002,/wiki/Koichi_Tanaka
+431,Alexei Abrikosov;Vitaly Ginzburg;Anthony James Leggett,Physics,2003,/wiki/Alexei_Abrikosov_(physicist)
+432,Peter Agre;Roderick MacKinnon,Chemistry,2003,/wiki/Vitaly_Ginzburg
+433,Paul Lauterbur;Peter Mansfield,Physiologyor Medicine,2003,/wiki/Anthony_James_Leggett
+434,J. M. Coetzee,Literature,2003,/wiki/Peter_Agre
+435,Shirin Ebadi,Peace,2003,/wiki/Roderick_MacKinnon
+436,David Gross;Hugh David Politzer;Frank Wilczek,Physics,2004,/wiki/David_Gross
+437,Aaron Ciechanover;Avram Hershko;Irwin Rose,Chemistry,2004,/wiki/Hugh_David_Politzer
+438,Richard Axel;Linda B. Buck,Physiologyor Medicine,2004,/wiki/Frank_Wilczek
+439,Elfriede Jelinek,Literature,2004,/wiki/Aaron_Ciechanover
+440,Wangari Maathai,Peace,2004,/wiki/Avram_Hershko
+441,Roy J. Glauber;John L. Hall;Theodor W. Hänsch,Physics,2005,/wiki/Roy_J._Glauber
+442,Yves Chauvin;Robert H. Grubbs;Richard R. Schrock,Chemistry,2005,/wiki/John_L._Hall
+443,Barry Marshall;Robin Warren,Physiologyor Medicine,2005,/wiki/Theodor_W._H%C3%A4nsch
+444,Harold Pinter,Literature,2005,/wiki/Yves_Chauvin
+445,International Atomic Energy Agency;Mohamed ElBaradei,Peace,2005,/wiki/Robert_H._Grubbs
+446,John C. Mather;George Smoot,Physics,2006,/wiki/John_C._Mather
+447,Roger D. Kornberg,Chemistry,2006,/wiki/George_Smoot
+448,Andrew Fire;Craig Mello,Physiologyor Medicine,2006,/wiki/Roger_D._Kornberg
+449,Orhan Pamuk,Literature,2006,/wiki/Andrew_Fire
+450,Muhammad Yunus;Grameen Bank,Peace,2006,/wiki/Craig_Mello
+451,Albert Fert;Peter Grünberg,Physics,2007,/wiki/Albert_Fert
+452,Gerhard Ertl,Chemistry,2007,/wiki/Peter_Gr%C3%BCnberg
+453,Mario Capecchi;Martin Evans;Oliver Smithies,Physiologyor Medicine,2007,/wiki/Gerhard_Ertl
+454,Doris Lessing,Literature,2007,/wiki/Mario_Capecchi
+455,Intergovernmental Panel on Climate Change;Al Gore,Peace,2007,/wiki/Martin_Evans
+456,Yoichiro Nambu;Makoto Kobayashi;Toshihide Maskawa,Physics,2008,/wiki/Yoichiro_Nambu
+457,Osamu Shimomura;Martin Chalfie;Roger Y. Tsien,Chemistry,2008,/wiki/Makoto_Kobayashi_(physicist)
+458,Harald zur Hausen;Françoise Barré-Sinoussi;Luc Montagnier,Physiologyor Medicine,2008,/wiki/Toshihide_Maskawa
+459,J. M. G. Le Clézio,Literature,2008,/wiki/Osamu_Shimomura
+460,Martti Ahtisaari,Peace,2008,/wiki/Martin_Chalfie
+461,Charles K. Kao;Willard S. Boyle;George E. Smith,Physics,2009,/wiki/Charles_K._Kao
+462,Venkatraman Ramakrishnan;Thomas A. Steitz;Ada Yonath,Chemistry,2009,/wiki/Willard_Boyle
+463,Elizabeth Blackburn;Carol W. Greider;Jack W. Szostak,Physiologyor Medicine,2009,/wiki/George_E._Smith
+464,Herta Müller,Literature,2009,/wiki/Venkatraman_Ramakrishnan
+465,Barack  Obama,Peace,2009,/wiki/Thomas_A._Steitz
+466,Andre Geim;Konstantin Novoselov,Physics,2010,/wiki/Andre_Geim
+467,Richard F. Heck;Ei-ichi Negishi;Akira Suzuki,Chemistry,2010,/wiki/Konstantin_Novoselov
+468,Robert Edwards,Physiologyor Medicine,2010,/wiki/Richard_F._Heck
+469,Mario Vargas Llosa,Literature,2010,/wiki/Ei-ichi_Negishi
+470,Liu Xiaobo[g],Peace,2010,/wiki/Akira_Suzuki_(chemist)
+471,Saul Perlmutter;Adam Riess;Brian Schmidt,Physics,2011,/wiki/Saul_Perlmutter
+472,Dan Shechtman,Chemistry,2011,/wiki/Adam_Riess
+473,Bruce Beutler;Jules A. Hoffmann;Ralph M. Steinman,Physiologyor Medicine,2011,/wiki/Brian_Schmidt
+474,Tomas Tranströmer,Literature,2011,/wiki/Dan_Shechtman
+475,Ellen Johnson Sirleaf;Leymah Gbowee;Tawakel Karman,Peace,2011,/wiki/Bruce_Beutler
+476,Serge Haroche;David J. Wineland,Physics,2012,/wiki/Serge_Haroche
+477,Brian K. Kobilka;Robert J. Lefkowitz,Chemistry,2012,/wiki/David_J._Wineland
+478,John B. Gurdon; Shinya Yamanaka,Physiologyor Medicine,2012,/wiki/Brian_Kobilka
+479,Mo Yan,Literature,2012,/wiki/Robert_Lefkowitz
+480,European Union,Peace,2012,/wiki/John_Gurdon
+481,François Englert;Peter W. Higgs,Physics,2013,/wiki/Fran%C3%A7ois_Englert
+482,Martin Karplus;Michael Levitt;Arieh Warshel,Chemistry,2013,/wiki/Peter_Higgs
+483,James E. Rothman;Randy W. Schekman;Thomas C. Südhof,Physiologyor Medicine,2013,/wiki/Martin_Karplus
+484,Alice Munro,Literature,2013,/wiki/Michael_Levitt
+485,Organisation for the Prohibition of Chemical Weapons,Peace,2013,/wiki/Arieh_Warshel
+486,Isamu Akasaki;Hiroshi Amano;Shuji Nakamura,Physics,2014,/wiki/Isamu_Akasaki
+487,Eric Betzig;Stefan Hell;William Moerner,Chemistry,2014,/wiki/Hiroshi_Amano
+488,John O'Keefe;May-Britt Moser;Edvard Moser,Physiologyor Medicine,2014,/wiki/Shuji_Nakamura
+489,Patrick Modiano,Literature,2014,/wiki/Eric_Betzig
+490,Kailash Satyarthi;Malala Yousafzai,Peace,2014,/wiki/Stefan_Hell
+491,Takaaki Kajita;Arthur B. McDonald,Physics,2015,/wiki/Takaaki_Kajita
+492,Tomas Lindahl;Paul L. Modrich;Aziz Sancar,Chemistry,2015,/wiki/Arthur_B._McDonald
+493,William C. Campbell;Satoshi Ōmura;Tu Youyou,Physiologyor Medicine,2015,/wiki/Tomas_Lindahl
+494,Svetlana Alexievich,Literature,2015,/wiki/Paul_Modrich
+495,Tunisian National Dialogue Quartet,Peace,2015,/wiki/Aziz_Sancar
+496,David J. Thouless;Duncan Haldane;John M. Kosterlitz,Physics,2016,/wiki/David_J._Thouless
+497,Jean-Pierre Sauvage;Fraser Stoddart;Ben Feringa,Chemistry,2016,/wiki/Duncan_Haldane
+498,Yoshinori Ohsumi,Physiologyor Medicine,2016,/wiki/John_M._Kosterlitz
+499,Bob Dylan,Literature,2016,/wiki/Jean-Pierre_Sauvage
+500,Juan Manuel Santos,Peace,2016,/wiki/Fraser_Stoddart
+501,Rainer Weiss;Barry Barish;Kip Thorne,Physics,2017,/wiki/Rainer_Weiss
+502,Jacques Dubochet;Joachim Frank;Richard Henderson,Chemistry,2017,/wiki/Barry_Barish
+503,Jeffrey C. Hall;Michael Rosbash;Michael W. Young,Physiologyor Medicine,2017,/wiki/Kip_Thorne
+504,Kazuo Ishiguro,Literature,2017,/wiki/Jacques_Dubochet
+505,International Campaign to Abolish Nuclear Weapons,Peace,2017,/wiki/Joachim_Frank
+506,Arthur Ashkin;Gérard Mourou;Donna Strickland,Physics,2018,/wiki/Arthur_Ashkin
+507,Frances H. Arnold;George Smith;Greg Winter,Chemistry,2018,/wiki/G%C3%A9rard_Mourou
+508,James P. Allison;Tasuku Honjo,Physiologyor Medicine,2018,/wiki/Donna_Strickland
+509,Olga Tokarczuk[h],Literature,2018,/wiki/Frances_H._Arnold
+510,Denis Mukwege;Nadia Murad,Peace,2018,/wiki/George_Smith_(chemist)
+511,Jim Peebles;Michel Mayor;Didier Queloz,Physics,2019,/wiki/Jim_Peebles
+512,John B. Goodenough;M. Stanley Whittingham;Akira Yoshino,Chemistry,2019,/wiki/Michel_Mayor
+513,William Kaelin Jr.;Peter J. Ratcliffe;Gregg L. Semenza,Physiologyor Medicine,2019,/wiki/Didier_Queloz
+514,Peter Handke,Literature,2019,/wiki/John_B._Goodenough
+515,Abiy Ahmed,Peace,2019,/wiki/M._Stanley_Whittingham
+516,Roger Penrose;Reinhard Genzel;Andrea M. Ghez,Physics,2020,/wiki/Roger_Penrose
+517,Emmanuelle Charpentier;Jennifer Doudna,Chemistry,2020,/wiki/Reinhard_Genzel
+518,Harvey J. Alter;Michael Houghton;Charles M. Rice,Physiologyor Medicine,2020,/wiki/Andrea_M._Ghez
+519,Louise Glück,Literature,2020,/wiki/Emmanuelle_Charpentier
+520,World Food Programme,Peace,2020,/wiki/Jennifer_Doudna
+521,Giorgio Parisi;Klaus Hasselmann;Syukuro Manabe,Physics,2021,/wiki/Giorgio_Parisi
+522,Benjamin List;David MacMillan,Chemistry,2021,/wiki/Klaus_Hasselmann
+523,David Julius;Ardem Patapoutian,Physiologyor Medicine,2021,/wiki/Syukuro_Manabe
+524,Abdulrazak Gurnah,Literature,2021,/wiki/Benjamin_List
+525,Maria Ressa;Dmitry Muratov,Peace,2021,/wiki/David_MacMillan
+526,Alain Aspect;John Clauser;Anton Zeilinger,Physics,2022,/wiki/Alain_Aspect
+527,Carolyn Bertozzi;Morten P. Meldal;Karl Barry Sharpless,Chemistry,2022,/wiki/John_Clauser
+528,Svante Pääbo,Physiologyor Medicine,2022,/wiki/Anton_Zeilinger
+529,Annie Ernaux,Literature,2022,/wiki/Carolyn_Bertozzi
+530,Ales Bialiatski;Memorial;Centre for Civil Liberties,Peace,2022,/wiki/Morten_P._Meldal
+531,Pierre Agostini;Ferenc Krausz;Anne L'Huillier,Physics,2023,/wiki/Pierre_Agostini
+532,Moungi Bawendi;Louis E. Brus;Alexey Ekimov,Chemistry,2023,/wiki/Ferenc_Krausz
+533,Katalin Karikó;Drew Weissman,Physiologyor Medicine,2023,/wiki/Anne_L%27Huillier
+534,Jon Fosse,Literature,2023,/wiki/Moungi_Bawendi
+535,Narges Mohammadi,Peace,2023,/wiki/Louis_E._Brus
