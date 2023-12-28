@@ -41,3 +41,6 @@ git add .
 git commit -m "Add ps2 IR LAB"
 git push
 git branch
+git add .
+git commit -m "Add Data vis. ps"
+git push
