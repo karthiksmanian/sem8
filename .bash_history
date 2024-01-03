@@ -47,3 +47,6 @@ git push
 git status
 git add .
 git status
+git add .
+git commit -m "IR ps2 half"
+git push
