@@ -44,3 +44,6 @@ git branch
 git add .
 git commit -m "Add Data vis. ps"
 git push
+git status
+git add .
+git status
