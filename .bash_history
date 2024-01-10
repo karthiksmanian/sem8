@@ -50,3 +50,9 @@ git status
 git add .
 git commit -m "IR ps2 half"
 git push
+git status
+clear
+git add .
+git commit -m "Data vis ps2 update"
+git pus
+git push
