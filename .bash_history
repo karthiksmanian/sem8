@@ -56,3 +56,7 @@ git add .
 git commit -m "Data vis ps2 update"
 git pus
 git push
+git add .
+git commit -m "Dir. refactoring / add SPM tutorial
+"
+git push
