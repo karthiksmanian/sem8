@@ -60,3 +60,6 @@ git add .
 git commit -m "Dir. refactoring / add SPM tutorial
 "
 git push
+git add .
+git commit -m "Add ps5 banking xlsx"
+git push
