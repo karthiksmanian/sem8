@@ -63,3 +63,8 @@ git push
 git add .
 git commit -m "Add ps5 banking xlsx"
 git push
+git add .
+git commit -m "Start IR ps3"
+git push
+git status
+clear
