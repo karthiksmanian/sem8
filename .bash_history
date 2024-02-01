@@ -68,3 +68,9 @@ git commit -m "Start IR ps3"
 git push
 git status
 clear
+git add .
+git commit -m "Preprocessing done IR ps3"
+git push
+git add .
+git commit -m "Preprocessing done IR ps3"
+git push
