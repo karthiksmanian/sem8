@@ -74,3 +74,7 @@ git push
 git add .
 git commit -m "Preprocessing done IR ps3"
 git push
+git add .
+git commit -m "Complete data vis. ps6"
+git push
+clear
