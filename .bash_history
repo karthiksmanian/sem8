@@ -78,3 +78,9 @@ git add .
 git commit -m "Complete data vis. ps6"
 git push
 clear
+git pull
+clear
+git add .
+git commit -m "Change wd path ps3"
+git push
+git pull
