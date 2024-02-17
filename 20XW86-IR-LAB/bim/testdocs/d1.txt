@@ -1,0 +1,2 @@
+information requirement: query considers the user feedback as information
+requirement to search.
