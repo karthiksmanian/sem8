@@ -1,0 +1,1 @@
+search: A search engine is one of applications of information retrieval models.

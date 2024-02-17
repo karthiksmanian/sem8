@@ -1,0 +1,3 @@
+information retrieval: ranking in information retrieval algorithms depends on
+
+user query
