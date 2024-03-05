@@ -84,3 +84,31 @@ git add .
 git commit -m "Change wd path ps3"
 git push
 git pull
+git branch
+git pull
+clear
+ls
+ls -a
+touch .dummy
+nano .dummy
+clear
+ls
+ls -a
+clear
+ls
+clear
+ls -a
+clear
+ls -a
+clear
+ls -a
+git status
+git add 20XW83-SOFTWARE-PROJECT-MANAGEMENT/chapter4_20PW16.docx 
+git commit -m "Add chapter 4 non assesment tutorial"
+git status
+git add 20XW86-IR-LAB/SVD/
+git commit -m "Start SVD IR"
+git status
+git add 20XWO8-DATA-VIS/regression/
+git commit -m "/"
+git push
