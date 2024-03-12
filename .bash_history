@@ -112,3 +112,11 @@ git status
 git add 20XWO8-DATA-VIS/regression/
 git commit -m "/"
 git push
+git branch
+clear
+git branch
+git status
+clear
+git add .
+git commit -m "SVD start"
+git push
